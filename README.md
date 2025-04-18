@@ -7,6 +7,24 @@ The analysis will cover five years (2015 to 2019) of data to facilitate research
 # Key Insights
 
 ## Exploratory Data Analysis
+Assessed trends from the Global happiness Report
+Examined correlation between happiness score and different factors
+
+## Regression Analysis
+Applied linear regression models to determine strongest predicctors of happiness
+
+## Geospatial Analysis
+Created a Choropleth map to visualize happiness scores across regions
+
+## Final Recommendations
+Derived data-driven insights for policymakers to improve national happiness scores
+Suggested strategies for enhancing economic growth, social well-being, and mental health policies
+
+# Tableau Storyboard
+https://public.tableau.com/app/profile/sharon.thapa/viz/GlobalHappiness_SharonT/Story1
+
+
+
 
 
 
